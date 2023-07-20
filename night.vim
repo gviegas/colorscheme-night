@@ -34,6 +34,7 @@ hi SpecialKey    ctermfg=DarkBlue  guifg=DarkBlue
 hi StatusLine    ctermbg=Gray  cterm=bold  ctermfg=Black  guibg=Gray
 hi StatusLineNC  ctermbg=Gray  cterm=bold  ctermfg=Black  guibg=Gray
 hi Title         cterm=bold  ctermfg=Gray  gui=bold  guifg=Gray
+hi Todo          ctermbg=DarkBlue  ctermfg=White  guibg=DarkBlue  guifg=White
 hi VertSplit     cterm=reverse  gui=reverse
 hi Visual        ctermbg=NONE  cterm=reverse  guibg=fg  gui=reverse  guifg=Gray
 hi WarningMsg    ctermfg=DarkRed  guifg=DarkRed
