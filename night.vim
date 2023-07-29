@@ -43,6 +43,7 @@ hi WildMenu      ctermbg=Yellow  ctermfg=Black  guibg=Yellow  guifg=Black
 " Syntax highlighting
 hi Comment         cterm=NONE  ctermfg=Gray  gui=NONE  guifg=Gray
 hi Constant        cterm=NONE  ctermfg=Yellow  gui=NONE  guifg=Yellow
+hi Function        cterm=bold  ctermfg=White  gui=bold  guifg=White
 hi Identifier      cterm=NONE  ctermfg=LightGray  gui=NONE  guifg=LightGray
 hi Keyword         cterm=bold  ctermfg=White  gui=bold  guifg=White
 hi Operator        cterm=NONE  ctermfg=LightGray  gui=NONE  guifg=LightGray
