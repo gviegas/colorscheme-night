@@ -43,21 +43,21 @@ hi WildMenu      ctermbg=Yellow  ctermfg=Black  guibg=Yellow  guifg=Black
 " Syntax highlighting
 hi Comment         cterm=NONE  ctermfg=DarkGray  gui=NONE  guifg=DarkGray
 hi Constant        cterm=NONE  ctermfg=Yellow  gui=NONE  guifg=Yellow
-hi Function        cterm=bold  ctermfg=White  gui=bold  guifg=White
+hi Function        cterm=NONE  ctermfg=White  gui=NONE  guifg=White
 hi Identifier      cterm=NONE  ctermfg=LightGray  gui=NONE  guifg=LightGray
-hi Keyword         cterm=bold  ctermfg=White  gui=bold  guifg=White
+hi Keyword         cterm=NONE  ctermfg=White  gui=NONE  guifg=White
 hi Operator        cterm=NONE  ctermfg=LightGray  gui=NONE  guifg=LightGray
 hi PreProc         cterm=NONE  ctermfg=Red  gui=NONE  guifg=Red
 hi Special         cterm=NONE  ctermfg=Red  gui=NONE  guifg=Red
 hi SpecialComment  cterm=NONE  ctermfg=DarkGray  gui=NONE  guifg=DarkGray
-hi Statement       cterm=bold  ctermfg=White  gui=bold  guifg=White
-hi StorageClass    cterm=bold  ctermfg=White  gui=bold  guifg=White
-hi Structure       cterm=bold  ctermfg=White  gui=bold  guifg=White
-hi Type            cterm=bold  ctermfg=White  gui=bold  guifg=White
-hi Typedef         cterm=bold  ctermfg=White  gui=bold  guifg=White
+hi Statement       cterm=NONE  ctermfg=White  gui=NONE  guifg=White
+hi StorageClass    cterm=NONE  ctermfg=White  gui=NONE  guifg=White
+hi Structure       cterm=NONE  ctermfg=White  gui=NONE  guifg=White
+hi Type            cterm=NONE  ctermfg=White  gui=NONE  guifg=White
+hi Typedef         cterm=NONE  ctermfg=White  gui=NONE  guifg=White
 
 " Language-specific syntax highlighting
-hi rustLifetime       cterm=bold  ctermfg=White  gui=bold  guifg=White
+hi rustLifetime       cterm=NONE  ctermfg=White  gui=NONE  guifg=White
 hi rustPubScopeDelim  cterm=NONE  ctermfg=LightGray  gui=NONE  guifg=LightGray
 hi rustSelf           cterm=NONE  ctermfg=Blue  gui=NONE  guifg=Blue
 hi rustSigil          cterm=NONE  ctermfg=LightGray  gui=NONE  guifg=LightGray
