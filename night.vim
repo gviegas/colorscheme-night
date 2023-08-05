@@ -41,7 +41,7 @@ hi WarningMsg    ctermfg=DarkRed  guifg=DarkRed
 hi WildMenu      ctermbg=Yellow  ctermfg=Black  guibg=Yellow  guifg=Black
 
 " Syntax highlighting
-hi Comment         cterm=NONE  ctermfg=Gray  gui=NONE  guifg=Gray
+hi Comment         cterm=NONE  ctermfg=DarkGray  gui=NONE  guifg=DarkGray
 hi Constant        cterm=NONE  ctermfg=Yellow  gui=NONE  guifg=Yellow
 hi Function        cterm=bold  ctermfg=White  gui=bold  guifg=White
 hi Identifier      cterm=NONE  ctermfg=LightGray  gui=NONE  guifg=LightGray
@@ -49,11 +49,11 @@ hi Keyword         cterm=bold  ctermfg=White  gui=bold  guifg=White
 hi Operator        cterm=NONE  ctermfg=LightGray  gui=NONE  guifg=LightGray
 hi PreProc         cterm=NONE  ctermfg=Red  gui=NONE  guifg=Red
 hi Special         cterm=NONE  ctermfg=Red  gui=NONE  guifg=Red
-hi SpecialComment  cterm=NONE  ctermfg=Gray  gui=NONE  guifg=Gray
+hi SpecialComment  cterm=NONE  ctermfg=DarkGray  gui=NONE  guifg=DarkGray
 hi Statement       cterm=bold  ctermfg=White  gui=bold  guifg=White
 hi StorageClass    cterm=bold  ctermfg=White  gui=bold  guifg=White
 hi Structure       cterm=bold  ctermfg=White  gui=bold  guifg=White
-hi Type            cterm=bold  ctermfg=Green  gui=bold  guifg=Green
+hi Type            cterm=bold  ctermfg=White  gui=bold  guifg=White
 hi Typedef         cterm=bold  ctermfg=White  gui=bold  guifg=White
 
 " Language-specific syntax highlighting
