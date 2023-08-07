@@ -47,7 +47,7 @@ hi Function        cterm=NONE  ctermfg=White  gui=NONE  guifg=White
 hi Identifier      cterm=NONE  ctermfg=LightGray  gui=NONE  guifg=LightGray
 hi Keyword         cterm=bold  ctermfg=White  gui=bold  guifg=White
 hi Operator        cterm=NONE  ctermfg=White  gui=NONE  guifg=White
-hi PreProc         cterm=bold  ctermfg=Gray  gui=bold  guifg=Gray
+hi PreProc         cterm=NONE  ctermfg=Gray  gui=NONE  guifg=Gray
 hi Special         cterm=NONE  ctermfg=White  gui=NONE  guifg=White
 hi SpecialComment  cterm=NONE  ctermfg=DarkYellow  gui=NONE  guifg=DarkYellow
 hi Statement       cterm=bold  ctermfg=White  gui=bold  guifg=White
